@@ -1,7 +1,4 @@
-package leetcode.everyday.September2022;
-
-import java.util.HashMap;
-import java.util.Map;
+package leetcode.everyday.september2022;
 
 /**
  * @creater hpp

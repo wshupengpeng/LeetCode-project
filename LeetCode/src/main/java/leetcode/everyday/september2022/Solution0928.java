@@ -1,4 +1,4 @@
-package leetcode.everyday.September2022;
+package leetcode.everyday.september2022;
 
 import java.util.HashSet;
 import java.util.PriorityQueue;
