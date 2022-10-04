@@ -1,4 +1,4 @@
-package leetcode.everyday;
+package leetcode.everyday.october2022;
 
 /**
  * 1784. 检查二进制字符串字段
@@ -45,5 +45,10 @@ public class Solution1003 {
 
     public boolean checkOnesSegment1(String s) {
         return !s.contains("01");
+    }
+
+    public static void main(String[] args) {
+        Class clz = Solution1003.class;
+        System.out.println(clz.isAssignableFrom(Object.class));
     }
 }
